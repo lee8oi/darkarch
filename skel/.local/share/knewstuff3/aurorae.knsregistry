@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>UniQ Aurorae</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Scnd101">Scnd101</author>
+  <homepage>https://opendesktop.org/content/show.php?content=114445</homepage>
+  <licence>1</licence>
+  <version>0.8</version>
+  <rating>86</rating>
+  <downloads>1619</downloads>
+  <installedfile>/home/arch/.local/share/aurorae/themes//uniq/keepabove.svgz</installedfile>
+  <installedfile>/home/arch/.local/share/aurorae/themes//uniq/resize.svgz</installedfile>
+  <installedfile>/home/arch/.local/share/aurorae/themes//uniq/uniqrc</installedfile>
+  <installedfile>/home/arch/.local/share/aurorae/themes//uniq/metadata.desktop</installedfile>
+  <installedfile>/home/arch/.local/share/aurorae/themes//uniq/close.svgz</installedfile>
+  <installedfile>/home/arch/.local/share/aurorae/themes//uniq/restore.svgz</installedfile>
+  <installedfile>/home/arch/.local/share/aurorae/themes//uniq/decoration.svgz</installedfile>
+  <installedfile>/home/arch/.local/share/aurorae/themes//uniq/alldesktops.svgz</installedfile>
+  <installedfile>/home/arch/.local/share/aurorae/themes//uniq/keepbelow.svgz</installedfile>
+  <installedfile>/home/arch/.local/share/aurorae/themes//uniq/minimize.svgz</installedfile>
+  <installedfile>/home/arch/.local/share/aurorae/themes//uniq/shade.svgz</installedfile>
+  <installedfile>/home/arch/.local/share/aurorae/themes//uniq/maximize.svgz</installedfile>
+  <installedfile>/home/arch/.local/share/aurorae/themes//uniq/</installedfile>
+  <installedfile>/home/arch/.local/share/aurorae/themes//</installedfile>
+  <id>114445</id>
+  <releasedate>2009-11-12</releasedate>
+  <summary>UniQ Aurorae window decoration</summary>
+  <changelog>v0.8 complete set of buttons</changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m114445-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/114445-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/114445-uniq_aurorae.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

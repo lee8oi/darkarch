@@ -1,0 +1,70 @@
+SessionName=default
+SessionPrettyContents=default: \s
+
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x00)
+
+[General Options]
+Open Projects=
+
+[Plugins]
+KDevCMakeDocumentationEnabled=true
+KDevCompilerProviderEnabled=true
+KDevManPageEnabled=true
+KDevProjectManagerViewEnabled=true
+kdevappwizardEnabled=true
+kdevbazaarEnabled=false
+kdevclassbrowserEnabled=true
+kdevcodeutilsEnabled=true
+kdevcontextbrowserEnabled=true
+kdevcvsEnabled=true
+kdevdocumentswitcherEnabled=true
+kdevdocumentviewEnabled=true
+kdevexecuteEnabled=true
+kdevexecuteplasmoidEnabled=true
+kdevexecutescriptEnabled=true
+kdevexternalscriptEnabled=true
+kdevfilemanagerEnabled=true
+kdevfiletemplatesEnabled=true
+kdevgdbEnabled=true
+kdevghproviderEnabled=true
+kdevgitEnabled=true
+kdevgrepviewEnabled=true
+kdevkdeproviderEnabled=true
+kdevkonsoleviewEnabled=true
+kdevoktetaEnabled=true
+kdevopenwithEnabled=true
+kdevpastebinEnabled=true
+kdevpatchreviewEnabled=true
+kdevproblemreporterEnabled=true
+kdevprojectdashboardEnabled=true
+kdevqthelpEnabled=true
+kdevquickopenEnabled=true
+kdevreviewboardEnabled=true
+kdevsnippetEnabled=true
+kdevsubversionEnabled=true
+kdevswitchtobuddyEnabled=true
+kdevtestviewEnabled=true
+kdevvcschangesviewpluginEnabled=true
+
+[ProjectManagerView]
+splitterState=\x00\x00\x00ÿ\x00\x00\x00\x00\x00\x00\x00\x02ÿÿÿÿÿÿÿÿ\x01\x00\x00\x00\x06\x01\x00\x00\x00\x02
+
+[ProjectTreeView]
+Current=
+Expansion=
+HorizontalScroll=0
+Selection=
+VerticalScroll=0
+
+[Working File Sets][code_8880600]
+View 0=file:///home/arch/.themes/GnomishDark/gtk-2.0/gtkrc
+View 0 Type=Text
+View Count=1
+persistent=false
+
+[Working File Sets][code_8880600|Code]
+Active View=file:///home/arch/.themes/GnomishDark/gtk-2.0/gtkrc
+View 0=file:///home/arch/.themes/GnomishDark/gtk-2.0/gtkrc
+View 0 State=Cursor=11,30
+View Count=1

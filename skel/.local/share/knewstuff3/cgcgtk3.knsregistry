@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>GnomishDark</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=tsujan">tsujan</author>
+  <homepage>https://opendesktop.org/content/show.php?content=147290</homepage>
+  <licence>10</licence>
+  <version></version>
+  <rating>77</rating>
+  <downloads>57172</downloads>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/debian/rules</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/debian/compat</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/debian/install</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/debian/control</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/debian/changelog</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/debian/copyright</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/debian/source/format</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/debian/source/</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/debian/</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-2.0/Styles/nautilus.rc</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-2.0/Styles/</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-2.0/assets/bg-entry.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-2.0/assets/border-entry.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-2.0/assets/bg.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-2.0/assets/</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-2.0/gtkrc</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-2.0/</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/index.theme</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/bar_unfocused.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/unabove-button.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/unabove-button-unfocus.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/bar.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/menu-button-pressed.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/metacity-theme-2.xml</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/button-close-focus.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/yellow.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/unfocus.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/button-max-focus1.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/metacity-theme-1.xml</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/button-min-focus.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/button-max-focus.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/neutral.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/metacity-theme-3.xml</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/metacity-1/</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/README</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/gtk-main-dark.css</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/gtk-main.css</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/slider_fine_vertical.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/trough-border-horizontal-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/sidebar-radio-selected-prelight.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/progressbar-border-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-menuitem-checked-insensitive.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/button-default-active-border-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/grid-selection-checked.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-selected-lessdark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/grid-selection-unchecked.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/scale-slider-vertical-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/pane-separator-grip-vertical.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/menu-border-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/button-active-border-dark1.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/trough-border-horizontal-dark1.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/scale-slider-horizontal-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-checked-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/tab-left-active-border.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-unchecked-lessdark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/primary-toolbar-button-active-border-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-menuitem-mixed-prelight.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/trough-border-switch-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/trough-border-vertical-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-menuitem-mixed-insensitive.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-selected-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-mixed-lessdark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/button-active-border-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/notebook-pane-separator-grip.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-checked-lessdark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/button-default-border-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/button-border-dark1.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/scale-slider-marks-below-vertical-insensitive-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/switch-slider-grip.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/primary-toolbar-button-active-border-dark (copy).svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/entry-border-focused-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-unselected-insensitive-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/primary-toolbar-raised-button-border-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/scale-slider-marks-below-horizontal-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/scale-slider-marks-below-horizontal-insensitive-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-unchecked-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-menuitem-checked.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/tab-right-active-border.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-unchecked-insensitive-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/button-border-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/entry-border-normal-dark1.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-menuitem-mixed.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/treeview-border-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-mixed-insensitive-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/pane-separator-grip.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-menuitem-checked.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/scale-slider-marks-above-horizontal-insensitive-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/slider_fine_horizontal.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/scale-slider-marks-above-vertical-insensitive-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/tab-active-border.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/entry-border-normal-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/sidebar-radio-checked-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/notebook-pane-separator-grip-hover.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/tab-bottom-active-border.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/notebook-pane-separator-grip-vertical-hover.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-menuitem-mixed-prelight.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-mixed-lessdark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-mixed-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-selected-insensitive-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/progressbar-border-vertical-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/scale-slider-marks-below-vertical-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/scale-slider-vertical-insensitive-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/sidebar-radio-selected-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-menuitem-mixed.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/pane-separator-grip-vertical-hover.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/scale-slider-horizontal-insensitive-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-menuitem-checked-prelight.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-unselected-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-unselected-lessdark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/pane-separator-grip-hover.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/scale-slider-marks-above-horizontal-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/sidebar-radio-prelight.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-mixed-insensitive-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-menuitem-mixed-insensitive.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-mixed-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/notebook-pane-separator-grip-vertical.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/trough-border-vertical-dark1.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/treeview-focus-border-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-checked-insensitive-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/radio-menuitem-checked-prelight.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/scale-slider-marks-above-vertical-dark.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/checkbox-menuitem-checked-insensitive.svg</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/assets/</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/gtk.css</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/settings.ini</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/gtk-dark.css</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/gtk.gresource.xml</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/gtk-widgets.css</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/gtk-widgets-assets-dark.css</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/unity.css</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/gtk-3.0/</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/minimize_focused_normal.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/minimize_unfocused.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/close_focused_pressed.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/maximize_focused_normal.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/close_unfocused.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/unmaximize_focused_pressed.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/maximize_focused_pressed.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/unmaximize_focused_normal.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/unmaximize_unfocused_pressed.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/close_unfocused_prelight.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/maximize_focused_prelight.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/minimize_unfocused_prelight.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/minimize_focused_pressed.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/unmaximize_unfocused.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/unmaximize.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/maximize.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/close.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/close_unfocused_pressed.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/minimize_unfocused_pressed.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/minimize_focused_prelight.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/unmaximize_focused_prelight.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/unmaximize_unfocused_prelight.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/close_focused_normal.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/minimize.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/close_focused_prelight.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/maximize_unfocused_prelight.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/maximize_unfocused_pressed.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/maximize_unfocused.png</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/unity/</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/GnomishDark/</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/Makefile</installedfile>
+  <installedfile>/home/arch/.themes//gnomishdark-20140505/</installedfile>
+  <installedfile>/home/arch/.themes//</installedfile>
+  <id>147290</id>
+  <releasedate>2014-05-09</releasedate>
+  <summary>NOTE:&#xd;
+======&#xd;
+Unfortunately, after years of Gnome3, even minor updates of GTK+ or Gnome-Shell break themes and waste hours of work.&#xd;
+&#xd;
+&#xd;
+GnomishDark is a clean dark theme for GTK3. It also contains a matching GTK2 theme, that depends on the latest Murrine and Pixmap engines.&#xd;
+&#xd;
+*** Current Dependencies ***&#xd;
+&#xd;
+GTK3 = 3.12.X (may not work with versions &lt; 3.8)&#xd;
+gtk2-engines-murrine >= 0.98.1.1 (for GTK2)&#xd;
+gtk2-engines-pixbuf >= 2.24.10 (for GTK2)&#xd;
+Metacity >= 2.34 (for GTK2)&#xd;
+&#xd;
+*** Notes ***&#xd;
+&#xd;
+1) Ubuntu users could disable "overlay-scrollbar" if they want to have the original scrollbars of the theme. See https://help.ubuntu.com/12.10/ubuntu-help/unity-scrollbars-intro.html&#xd;
+&#xd;
+2) Don't forget to take a look at the file "README" in the theme folder. It contains useful tips for LibreOffice, Firefox, Epiphany, etc.&#xd;
+&#xd;
+3) You won't need the source package unless you want to modify the theme or make a deb or an rpm package from it.&#xd;
+&#xd;
+4) Light monochromic icons go well with this theme. I've made the gray version of nouveGnome for it: http://gnome-look.org/content/show.php/nouveGnome?content=125474</summary>
+  <changelog>.....&#xd;
+&#xd;
+Jul 11 2013&#xd;
+-----------&#xd;
+Updated for Gnome-3.8 and GTK+-3.8.&#xd;
+Removed the Cinnamon theme (sadly I couldn't maintain it with so much of backward incompatibility in Gnome).&#xd;
+&#xd;
+Feb 26 2014&#xd;
+-----------&#xd;
+Updated for GTK+-3.10 (should work with 3.8 too).&#xd;
+Removed the Shell theme (every update broke it).&#xd;
+&#xd;
+Feb 26 2014&#xd;
+-----------&#xd;
+Made header bars flat for them to look different from toolbars.&#xd;
+&#xd;
+Feb 27 2014&#xd;
+-----------&#xd;
+Workaround for a new bug in GTK (or Cairo).&#xd;
+&#xd;
+Mar 4 2014&#xd;
+-----------&#xd;
+Added a matching Unity theme for Ubuntu Trusty.&#xd;
+&#xd;
+Apr 14 2014&#xd;
+-----------&#xd;
+Goodbye Adwaita!&#xd;
+Updated for GTK+-3.12 (still works with 3.10 but a thin line might appear below Nautilus' active tabs).&#xd;
+&#xd;
+May 9 2014&#xd;
+-----------&#xd;
+Added support for Gnome's client side decorations (second screenshot).</changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m147290-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/147290-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/147290-gnomishdark-20140505-source.tar.xz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

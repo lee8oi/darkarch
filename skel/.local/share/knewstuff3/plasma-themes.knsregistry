@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Elegance</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=AdrienV">AdrienV</author>
+  <homepage>https://opendesktop.org/content/show.php?content=78034</homepage>
+  <licence>2</licence>
+  <version>0.7</version>
+  <rating>87</rating>
+  <downloads>13199</downloads>
+  <installedfile>/tmp/78034-Elegance_0.7.tar.gz</installedfile>
+  <id>78034</id>
+  <releasedate>2008-09-25</releasedate>
+  <summary>Élégance is an effort to make an elegant theme for plasma.</summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m78034-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/78034-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/78034-Elegance_0.7.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,9 @@
+[Added Associations]
+application/x-compressed-tar=file-roller.desktop;
+text/plain=org.kde.kate.desktop;
+
+[Default Applications]
+application/x-compressed-tar=file-roller.desktop;
+text/html=google-chrome-beta.desktop
+x-scheme-handler/http=google-chrome-beta.desktop
+x-scheme-handler/https=google-chrome-beta.desktop

@@ -1,0 +1,33 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10cae5d268000142273130100000005280001
+clientId2=10cae5d268000143135813100000007820004
+clientId3=10cae5d268000142273130300000005280010
+clientId4=10cae5d268000142273274200000159720027
+count=4
+discardCommand4[$e]=rm,$HOME/.kde4/share/config/session/kmix_10cae5d268000142273274200000159720027_1431359976_752604
+program1=kwin_x11
+program2=pulseaudio
+program3=/usr/bin/octopi-notifier
+program4=/usr/bin/kmix
+restartCommand1=kwin_x11,-session,10cae5d268000142273130100000005280001_1431359976_746655
+restartCommand2=
+restartCommand3=/usr/bin/octopi-notifier,-session,10cae5d268000142273130300000005280010_1431359976_752415
+restartCommand4=/usr/bin/kde4,/usr/bin/kmix,-session,10cae5d268000142273274200000159720027_1431359976_752604
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=arch
+userId2=arch
+userId3=arch
+userId4=arch
+wasWm1=true
+wasWm2=false
+wasWm3=false
+wasWm4=false

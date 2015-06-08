@@ -1,0 +1,5 @@
+[Module-appmenu]
+autoload=false
+
+[super-user-command]
+super-user-command=sudo

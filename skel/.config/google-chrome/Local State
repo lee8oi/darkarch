@@ -1,0 +1,39 @@
+{
+   "policy": {
+      "last_statistics_update": "13067312784744873"
+   },
+   "rappor": {
+      "cohort_seed": 443,
+      "secret": "bbn5iI31/q4v7CSMUeUqnu3nddrI1L8dRhwlF++vZFDV0vKl67xBU9ul7wZLaIjH"
+   },
+   "shutdown": {
+      "num_processes": 0,
+      "num_processes_slow": 0,
+      "type": 0
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1422839184",
+      "launch_count": "1"
+   },
+   "user_experience_metrics": {
+      "low_entropy_source2": 3805,
+      "session_id": 0,
+      "stability": {
+         "child_process_crash_count": 0,
+         "crash_count": 0,
+         "execution_phase": 700,
+         "exited_cleanly": true,
+         "extension_renderer_crash_count": 0,
+         "incomplete_session_end_count": 0,
+         "last_timestamp_sec": "1422839184",
+         "launch_count": 1,
+         "launch_time_sec": "1422839184",
+         "page_load_count": 0,
+         "renderer_crash_count": 0,
+         "renderer_hang_count": 0,
+         "session_end_completed": true,
+         "stats_buildtime": "1422411515",
+         "stats_version": "41.0.2272.35-64"
+      }
+   }
+}

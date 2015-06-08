@@ -1,0 +1,23 @@
+[DownloadDialog Settings]
+Height 778=499
+Width 1600=700
+
+[KPropertiesDialog]
+Height 778=446
+Width 1600=405
+
+[MainWindow]
+Height 476=599
+Height 778=599
+Height 791=430
+Height 792=480
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAmwAAAG6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=620
+Width 632=879
+Window-Maximized 791x1600=true
+
+[Open-with settings]
+CompletionMode=5
+History=guake

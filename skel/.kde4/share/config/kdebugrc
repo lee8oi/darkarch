@@ -1,0 +1,35 @@
+[KDevplatform (External Script)]
+InfoOutput=4
+
+[KSharedDataCache]
+InfoOutput=4
+
+[dolphin]
+InfoOutput=4
+
+[kbuildsycoca4]
+InfoOutput=2
+
+[kdecore (KConfigSkeleton)]
+InfoOutput=2
+
+[kded]
+InfoOutput=4
+
+[kdesu]
+InfoOutput=4
+
+[kdesu (kdelibs)]
+InfoOutput=2
+
+[kdevdefinesandincludes]
+InfoOutput=2
+
+[kdevelop]
+InfoOutput=4
+
+[kio_trash]
+InfoOutput=4
+
+[kwalletd]
+InfoOutput=2

@@ -1,0 +1,114 @@
+[External Scripts]
+firstUse=false
+
+[External Scripts][script 0]
+command=g++ -o %b %f && ./%b
+errorMode=0
+filterMode=0
+inputMode=0
+name=Quick Compile
+outputMode=0
+saveMode=0
+shortcuts=
+showOutput=true
+
+[External Scripts][script 1]
+command=xdg-open "http://www.google.de/search?q=%s"
+errorMode=0
+filterMode=0
+inputMode=0
+name=Google Selection
+outputMode=0
+saveMode=0
+shortcuts=
+showOutput=false
+
+[External Scripts][script 2]
+command=sort
+errorMode=0
+filterMode=0
+inputMode=2
+name=Sort Selection
+outputMode=3
+saveMode=0
+shortcuts=
+showOutput=false
+
+[KatePart Settings]
+documents=/home/arch/.themes/GnomishDark/gtk-2.0/gtkrc
+
+[KatePart Settings][/home/arch/.themes/GnomishDark/gtk-2.0/gtkrc]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+
+[Main Window]
+Desktop 1600 778=0,85,870,650
+
+[MainWindow]
+Height 778=650
+State=AAAA/wAAAAD9AAAAAAAAAzIAAAIsAAAABAAAAAQAAAABAAAAAvwAAAAEAAAAAAAAAAEAAAAeAEwAZQBmAHQAIABCAHUAdAB0AG8AbgAgAEIAYQByAwAAAAD/////AAAAAAAAAAAAAAABAAAAAQAAACAAUgBpAGcAaAB0ACAAQgB1AHQAdABvAG4AIABCAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIABxAHUAaQBjAGsATwBwAGUAbgBUAG8AbwBsAEIAYQByAQAAATb/////AAAAAAAAAAAAAAAsAEsARABlAHYAQwBvAGQAZQBiAHIAbwB3AHMAZQByAFQAbwBvAGwAQgBhAHIBAAACEf////8AAAAAAAAAAAAAAAMAAAABAAAAIgBCAG8AdAB0AG8AbQAgAEIAdQB0AHQAbwBuACAAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1600=870
+
+[MainWindow_code]
+Height 778=650
+State=AAAA/wAAAAD9AAAAAAAAAzIAAAIsAAAABAAAAAQAAAABAAAAAvwAAAAEAAAAAAAAAAEAAAAeAEwAZQBmAHQAIABCAHUAdAB0AG8AbgAgAEIAYQByAwAAAAD/////AAAAAAAAAAAAAAABAAAAAQAAACAAUgBpAGcAaAB0ACAAQgB1AHQAdABvAG4AIABCAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIABxAHUAaQBjAGsATwBwAGUAbgBUAG8AbwBsAEIAYQByAQAAATb/////AAAAAAAAAAAAAAAsAEsARABlAHYAQwBvAGQAZQBiAHIAbwB3AHMAZQByAFQAbwBvAGwAQgBhAHIBAAACEf////8AAAAAAAAAAAAAAAMAAAABAAAAIgBCAG8AdAB0AG8AbQAgAEIAdQB0AHQAbwBuACAAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+Width 1600=870
+
+[Open File]
+Last Open File Directory=file:///home/arch/.themes/GnomishDark/gtk-2.0/
+
+[Recent Files]
+File1[$e]=$HOME/.themes/GnomishDark/gtk-2.0/gtkrc
+Name1[$e]=gtkrc
+
+[Sessions]
+Active Session ID={af17eff9-6b8a-4075-bbd8-007e3dc44621}
+
+[User Interface]
+Main Windows Count=1
+
+[User Interface][Main Window 0][Area code]
+desired views=org.kdevelop.ClassBrowserView:1,org.kdevelop.ContextBrowser:8,org.kdevelop.DocumentationView:2,org.kdevelop.DocumentsView:1,org.kdevelop.ExternalScriptView:2,org.kdevelop.FileManagerView:1,org.kdevelop.KonsoleView:8,org.kdevelop.OutputView:8,org.kdevelop.ProblemReporterView:8,org.kdevelop.ProjectsView:1,org.kdevelop.SnippetView:2
+id=code
+thickness bottom=-1
+thickness left=-1
+thickness right=-1
+thickness top=-1
+view on bottom=
+view on left=
+view on right=
+view on top=
+working set=code_8880600
+
+[User Interface][Main Window 0][Area debug]
+desired views=org.kdevelop.DocumentationView:2,org.kdevelop.FileManagerView:1,org.kdevelop.KonsoleView:8,org.kdevelop.debugger.BreakpointsView:8,org.kdevelop.debugger.ConsoleView:8,org.kdevelop.debugger.StackView:8,org.kdevelop.debugger.VariablesView:1
+id=debug
+thickness bottom=-1
+thickness left=-1
+thickness right=-1
+thickness top=-1
+view on bottom=
+view on left=
+view on right=
+view on top=
+working set=
+
+[User Interface][Main Window 0][Area review]
+desired views=org.kdevelop.DocumentationView:2,org.kdevelop.FileManagerView:1,org.kdevelop.PatchReview:8,org.kdevelop.ProjectsView:1
+id=review
+thickness bottom=-1
+thickness left=-1
+thickness right=-1
+thickness top=-1
+view on bottom=
+view on left=
+view on right=
+view on top=
+working set=
+
+[breakpoints]
+number=0
