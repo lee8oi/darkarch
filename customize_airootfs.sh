@@ -46,27 +46,28 @@ mkdir $workdir
 chown arch:users $workdir
 
 echo "AUR - Downloading & Installing libindicator"
-su - -c "cd ${workdir} && wget https://aur.archlinux.org/packages/li/libindicator/libindicator.tar.gz\
+su - -c "cd ${workdir} && wget https://aur.archlinux.org/cgit/aur.git/snapshot/libindicator.tar.gz\
 	&& tar -xzf libindicator.tar.gz && cd libindicator && makepkg" arch
 pacman -U $workdir/libindicator/*pkg.tar.xz --noconfirm
 
 echo "AUR - Downloading & Installing libdbusmenu-gtk2"
-su - -c "cd ${workdir} && wget https://aur.archlinux.org/packages/li/libdbusmenu-gtk2/libdbusmenu-gtk2.tar.gz\
+su - -c "cd ${workdir} && wget https://aur.archlinux.org/cgit/aur.git/snapshot/libdbusmenu-gtk2.tar.gz\
 	&& tar -xzf libdbusmenu-gtk2.tar.gz && cd libdbusmenu-gtk2 && makepkg" arch
 pacman -U $workdir/libdbusmenu-gtk2/*pkg.tar.xz --noconfirm
 
 echo "AUR - Downloading & Installing libappindicator"
-su - -c "cd ${workdir} && wget https://aur.archlinux.org/packages/li/libappindicator/libappindicator.tar.gz\
+su - -c "cd ${workdir} && wget https://aur.archlinux.org/cgit/aur.git/snapshot/libappindicator.tar.gz\
 	&& tar -xzf libappindicator.tar.gz && cd libappindicator && makepkg" arch
 pacman -U $workdir/libappindicator/*pkg.tar.xz --noconfirm
 
 echo "AUR - Downloading & Installing Octopi"
-su - -c "cd ${workdir} && wget https://aur.archlinux.org/packages/oc/octopi/octopi.tar.gz\
+su - -c "cd ${workdir} && wget https://aur.archlinux.org/cgit/aur.git/snapshot/octopi.tar.gz\
 	&& tar -xzf octopi.tar.gz && cd octopi && makepkg" arch
+rm $workdir/octopi/octopi-notifier-kde*
 pacman -U $workdir/octopi/*pkg.tar.xz --noconfirm
 
 echo "AUR - Downloading & Installing Google Chrome"
-su - -c "cd ${workdir} && wget https://aur.archlinux.org/packages/go/google-chrome-beta/google-chrome-beta.tar.gz\
+su - -c "cd ${workdir} && wget https://aur.archlinux.org/cgit/aur.git/snapshot/google-chrome-beta.tar.gz\
 	&& tar -xzf google-chrome-beta.tar.gz && cd google-chrome-beta && makepkg" arch
 pacman -U $workdir/google-chrome-beta/*pkg.tar.xz --noconfirm
 

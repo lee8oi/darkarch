@@ -45,7 +45,7 @@ konsole
 kdevelop
 kdebase-kdialog
 kdebase-dolphin
-kdesdk-dolphin-plugins
+dolphin-plugins
 kate
 kompare
 kdegraphics-okular
@@ -53,6 +53,9 @@ kdegraphics-ksnapshot
 kdemultimedia-kmix
 kdenetwork-kopete
 libdbusmenu-gtk3
+libdvdcss
+libdvdnav
+libdvdread
 mercurial
 networkmanager
 pavucontrol
