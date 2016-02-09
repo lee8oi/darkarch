@@ -29,6 +29,10 @@ xf86-video-intel
 xf86-video-nouveau
 xf86-video-ati
 xf86-video-openchrome
+iw
+wpa_supplicant
+dialog
+discover
 harfbuzz-icu
 filezilla
 file-roller
@@ -39,8 +43,8 @@ gobject-introspection
 guake
 gtk-sharp-2
 gwenview
+hexchat
 intltool
-konversation
 konsole
 kdevelop
 kdebase-kdialog
@@ -49,10 +53,7 @@ dolphin-plugins
 kate
 kompare
 kdegraphics-okular
-kdegraphics-ksnapshot
-kdemultimedia-kmix
 kdenetwork-kopete
-libdbusmenu-gtk3
 libdvdcss
 libdvdnav
 libdvdread
@@ -66,6 +67,7 @@ pulseaudio-alsa
 oxygen-gtk2
 sddm
 sddm-kcm
+spectacle
 subversion
 snappy
 sni-qt
@@ -78,7 +80,7 @@ vala
 vim
 virtualbox-guest-utils
 vlc
-yaourt
+yajl
 zip
 zsh-completions
 zsh-syntax-highlighting\
@@ -101,7 +103,7 @@ unmountall () {
 	done
 	if mount | grep `pwd`/releng > /dev/null; then
 		printf "\nFailed to unmount existing airootfs!\n"
-		exit
+		exit 1
 	fi
 	return 0
 }
@@ -157,13 +159,14 @@ checkargs () {
 
 # addwallpaper () {
 # 	mkdir -p releng/airootfs/usr/share/
-# 	cp -r wallpapers releng/airootfs/usr/share/
+# 	cp -r wallpapers/* releng/airootfs/usr/share/
 # 	return $?
 # }
 
 createskel () {
-	mkdir -p releng/airootfs/etc/
+	mkdir -p releng/airootfs/etc/ &&
 	cp -r skel releng/airootfs/etc/
+	return $?
 }
 
 setupvbox () {
@@ -228,7 +231,7 @@ checkargs $* >> $file.log 2>&1
 check $?
 
 printf "Adding customization scripts"
-addscripts >> $file.log 2>&1
+# addscripts >> $file.log 2>&1
 rm releng/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf &&
 cp customize_airootfs.sh releng/airootfs/root/
 check $?

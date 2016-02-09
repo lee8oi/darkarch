@@ -1,16 +1,16 @@
 # File created by KDE Gtk Config
-# Configs for GTK2 programs
+# Configs for GTK2 programs 
 
-include "/usr/share/themes/oxygen-gtk/gtk-2.0/gtkrc"
-style "user-font"
+include "/usr/share/themes/Breeze-Dark/gtk-2.0/gtkrc"
+style "user-font" 
 {
-        font_name="Oxygen-Sans Sans-Book"
+	font_name="Noto Sans Regular"
 }
 widget_class "*" style "user-font"
-gtk-font-name="Oxygen-Sans Sans-Book 11"
-gtk-theme-name="oxygen-gtk"
-gtk-icon-theme-name="oxygen"
-gtk-fallback-icon-theme="gnome"
+gtk-font-name="Noto Sans Regular 10"
+gtk-theme-name="Breeze-Dark"
+gtk-icon-theme-name="breeze"
+gtk-fallback-icon-theme="breeze"
 gtk-toolbar-style=GTK_TOOLBAR_ICONS
 gtk-menu-images=1
 gtk-button-images=1

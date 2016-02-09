@@ -27,16 +27,30 @@ plugin=org.kde.plasma.icontasks
 DialogHeight=540
 DialogWidth=720
 
-[Containments][1][Applets][14][Configuration][General]
-launchers=file:///usr/share/applications/google-chrome-beta.desktop?wmClass=Google-chrome-beta
+[Containments][1][Applets][17]
+immutability=1
+plugin=org.kde.plasma.icon
+
+[Containments][1][Applets][17][Configuration][General]
+applicationName=Google Chrome
+genericName=Web Browser
+iconName=google-chrome
+url=/usr/share/applications/google-chrome.desktop
 
 [Containments][1][Applets][2]
 immutability=1
 plugin=org.kde.plasma.kickoff
 
+[Containments][1][Applets][2][Configuration]
+favorites=/usr/share/applications/octopi.desktop,/usr/share/applications/systemsettings.desktop,/usr/share/applications/google-chrome-beta.desktop,/usr/share/applications/org.kde.konversation.desktop,/usr/share/applications/liteide.desktop
+systemApplications=systemsettings.desktop,
+
 [Containments][1][Applets][2][Configuration][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
+
+[Containments][1][Applets][2][Configuration][General]
+favorites=org.kde.discover.desktop,google-chrome.desktop,hexchat.desktop,gparted.desktop,org.kde.kinfocenter.desktop,org.kde.ksysguard.desktop,liteide.desktop
 
 [Containments][1][Applets][2][Configuration][Shortcuts]
 global=Alt+F1
@@ -72,23 +86,36 @@ plugin=org.kde.plasma.notifications
 immutability=1
 plugin=org.kde.plasma.networkmanagement
 
+[Containments][1][Applets][5][Configuration][Containments][8][Applets][15]
+immutability=1
+plugin=org.kde.plasma.volume
+
+[Containments][1][Applets][5][Configuration][Containments][8][Applets][15][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][1][Applets][5][Configuration][Containments][8][Applets][16]
+immutability=1
+plugin=org.kde.discovernotifier
+
 [Containments][1][Applets][5][Configuration][Containments][8][Applets][9]
 immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][1][Applets][5][Configuration][General]
-extraItems=org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.devicenotifier
+extraItems=org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.discovernotifier,org.kde.plasma.volume
+knownItems=org.kde.discovernotifier,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.volume
 
 [Containments][1][Applets][6]
 immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][1][ConfigDialog]
-DialogHeight=73
+DialogHeight=74
 DialogWidth=1600
 
 [Containments][1][General]
-AppletOrder=2;3;14;5;6
+AppletOrder=2;3;17;14;5;6
 
 [Containments][7]
 activityId=6fa77257-f916-4c88-8ca8-59bfaf86f6b6
@@ -106,7 +133,7 @@ DialogWidth=720
 [Containments][7][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/wallpapers/Darch/contents/images/1440x900.png
 SlidePaths=
-height=792
+height=790
 width=1600
 
 [General]

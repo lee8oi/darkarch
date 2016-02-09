@@ -1,6 +1,14 @@
 [PlasmaViews][Panel 1][Horizontal1600]
+alignment=132
+length=820
+maxLength=820
+minLength=820
+offset=0
 panelVisibility=0
-thickness=39
+thickness=34
 
 [PlasmaViews][Panel 1][Horizontal632]
 thickness=30
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

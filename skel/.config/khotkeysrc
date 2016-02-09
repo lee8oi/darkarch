@@ -1,5 +1,5 @@
 [Data]
-DataCount=4
+DataCount=5
 
 [Data_1]
 Comment=KMenuEdit Global Shortcuts
@@ -896,6 +896,106 @@ Key=Print
 Type=SHORTCUT
 Uuid={246df853-071f-4154-b117-ea74a46b50df}
 
+[Data_5]
+Comment=Shortcuts for taking screenshots
+DataCount=3
+Enabled=true
+ImportId=spectacle
+Name=Screenshots
+SystemGroup=0
+Type=ACTION_DATA_GROUP
+
+[Data_5Conditions]
+Comment=
+ConditionsCount=0
+
+[Data_5_1]
+Comment=Start the screenshot tool and show the GUI
+Enabled=true
+Name=Start Screenshot Tool
+Type=SIMPLE_ACTION_DATA
+
+[Data_5_1Actions]
+ActionsCount=1
+
+[Data_5_1Actions0]
+Arguments=
+Call=StartAgent
+RemoteApp=org.kde.Spectacle
+RemoteObj=/
+Type=DBUS
+
+[Data_5_1Conditions]
+Comment=
+ConditionsCount=0
+
+[Data_5_1Triggers]
+Comment=Simple_action
+TriggersCount=1
+
+[Data_5_1Triggers0]
+Key=
+Type=SHORTCUT
+Uuid={eb54ac57-7330-4661-9c3f-3654ece81a9c}
+
+[Data_5_2]
+Comment=Take a full screen (all monitors) screenshot and save it
+Enabled=true
+Name=Take Full Screen Screenshot
+Type=SIMPLE_ACTION_DATA
+
+[Data_5_2Actions]
+ActionsCount=1
+
+[Data_5_2Actions0]
+Arguments=false
+Call=FullScreen
+RemoteApp=org.kde.Spectacle
+RemoteObj=/
+Type=DBUS
+
+[Data_5_2Conditions]
+Comment=
+ConditionsCount=0
+
+[Data_5_2Triggers]
+Comment=Simple_action
+TriggersCount=1
+
+[Data_5_2Triggers0]
+Key=Shift+Print
+Type=SHORTCUT
+Uuid={3d017016-2bd2-4455-b8bb-dffcf132985e}
+
+[Data_5_3]
+Comment=Take a screenshot of the currently active window and save it
+Enabled=true
+Name=Take Active Window Screenshot
+Type=SIMPLE_ACTION_DATA
+
+[Data_5_3Actions]
+ActionsCount=1
+
+[Data_5_3Actions0]
+Arguments=true, false
+Call=ActiveWindow
+RemoteApp=org.kde.Spectacle
+RemoteObj=/
+Type=DBUS
+
+[Data_5_3Conditions]
+Comment=
+ConditionsCount=0
+
+[Data_5_3Triggers]
+Comment=Simple_action
+TriggersCount=1
+
+[Data_5_3Triggers0]
+Key=Meta+Print
+Type=SHORTCUT
+Uuid={6b2c30be-8db5-41b7-8fa4-6f905c027cd9}
+
 [Gestures]
 Disabled=true
 MouseButton=2
@@ -906,7 +1006,7 @@ Comment=
 WindowsCount=0
 
 [Main]
-AlreadyImported=defaults,konqueror_gestures_kde321,kde32b1,printscreen
+AlreadyImported=defaults,konqueror_gestures_kde321,kde32b1,printscreen,spectacle
 Disabled=false
 Version=2
 

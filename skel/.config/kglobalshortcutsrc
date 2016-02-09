@@ -1,6 +1,6 @@
 [KDE Keyboard Layout Switcher]
 Switch to Next Keyboard Layout=Ctrl+Alt+K,none,Switch to Next Keyboard Layout
-_k_friendly_name=KDE Keyboard Layout Switcher
+_k_friendly_name=KDE Daemon
 
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
@@ -12,20 +12,23 @@ Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,Decre
 Hibernate=Hibernate,Hibernate,Hibernate
 Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,Increase Keyboard Brightness
 Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,Increase Screen Brightness
-PowerOff=Power Off,Power Off,
+PowerOff=Power Off,Power Off,Power Off
 Show System Activity=Ctrl+Esc,Ctrl+Esc,Show System Activity
-Sleep=Sleep,Sleep,Sleep
+Sleep=Sleep,Sleep,Suspend
 Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Toggle Keyboard Backlight
-_k_friendly_name=kded5
+_k_friendly_name=KDE Daemon
 display=Display,Display,Switch Display
 
 [khotkeys]
-_k_friendly_name=khotkeys
+_k_friendly_name=KDE Daemon
 {246df853-071f-4154-b117-ea74a46b50df}=Print,none,PrintScreen
+{3d017016-2bd2-4455-b8bb-dffcf132985e}=Shift+Print,none,Take Full Screen Screenshot
+{6b2c30be-8db5-41b7-8fa4-6f905c027cd9}=Meta+Print,none,Take Active Window Screenshot
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Search
+{eb54ac57-7330-4661-9c3f-3654ece81a9c}=,none,Start Screenshot Tool
 
 [kmix]
-_k_friendly_name=KMix
+_k_friendly_name=Audio Volume
 decrease_volume=Volume Down,Volume Down,Decrease Volume
 increase_volume=Volume Up,Volume Up,Increase Volume
 mute=Volume Mute,Volume Mute,Mute
@@ -186,13 +189,13 @@ Window to Screen 4=none,none,Window to Screen 4
 Window to Screen 5=none,none,Window to Screen 5
 Window to Screen 6=none,none,Window to Screen 6
 Window to Screen 7=none,none,Window to Screen 7
-_k_friendly_name=kwin
+_k_friendly_name=KWin
 view_actual_size=Meta+0,Meta+0,Actual Size
 view_zoom_in=Meta+=,Meta+=,Zoom In
 view_zoom_out=Meta+-,Meta+-,Zoom Out
 
 [plasmashell]
-_k_friendly_name=plasmashell
+_k_friendly_name=Plasma
 activate widget 2=Alt+F1,none,Activate Application Launcher Widget
 clear-history=none,none,Clear Clipboard History
 clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Enable Clipboard Actions
@@ -203,6 +206,7 @@ manage activities=Meta+Q,Meta+Q,Activities...
 next activity=Meta+Tab,Meta+Tab,Walk through activities
 previous activity=Meta+Shift+Tab,Meta+Shift+Tab,Walk through activities (Reverse)
 repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Manually Invoke Action on Current Clipboard
-show dashboard=Ctrl+F12,Ctrl+F12,Show Dashboard
+show dashboard=Ctrl+F12,Ctrl+F12,Show Desktop
+show-barcode=none,none,Show Barcode...
 show-on-mouse-pos=none,none,Open Klipper at Mouse Position
 stop current activity=Meta+S,Meta+S,Stop Current Activity

@@ -1,25 +1,40 @@
 updateInfoAdded=true
 
+[disable_kmix.upd]
+ctime=1453837399
+done=PlasmaVolume_DisableKMixAutostart
+mtime=1453837399
+
+[frameworksintegration-5.16-font.upd]
+ctime=1451751702
+done=frameworksintegration-5.16-font.sh
+mtime=1451751702
+
 [gtkbreeze.upd]
 ctime=1431306681
 done=GTKBreeze
 mtime=1429976962
 
+[gtkbreeze5.5.upd]
+ctime=1453836244
+done=GTKBreeze5.5
+mtime=1453836244
+
 [kde4breeze.upd]
-ctime=1431306681
+ctime=1453836167
 done=5.0KDE4Breeze_2
-mtime=1429976962
+mtime=1453836167
 
 [konversation.upd]
-ctime=1431306681
+ctime=1428448915
 mtime=1428448915
 
 [krdb_libpathwipe.upd]
-ctime=1431306681
+ctime=1453837186
 done=LibraryPathWipeOut
-mtime=1429783353
+mtime=1453837186
 
 [kscreenlocker.upd]
-ctime=1431306681
+ctime=1453836760
 done=0.1-autolock
-mtime=1429782337
+mtime=1453836760

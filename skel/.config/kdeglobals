@@ -89,17 +89,18 @@ ForegroundPositive=128,255,128
 ForegroundVisited=192,128,255
 
 [General]
+BrowserApplication=google-chrome.desktop
 ColorScheme=ZionReversed
 Name=Zion (Reversed)
 XftAntialias=true
 XftHintStyle=hintmedium
 XftSubPixel=none
 fixed=Oxygen Mono,9,-1,5,50,0,0,0,0,0
-font=Oxygen-Sans,10,-1,5,50,0,0,0,0,0
-menuFont=Oxygen-Sans,10,-1,5,50,0,0,0,0,0
+font=Noto Sans,10,-1,5,50,0,0,0,0,0
+menuFont=Noto Sans,10,-1,5,50,0,0,0,0,0
 shadeSortColumn=true
-smallestReadableFont=Oxygen-Sans,8,-1,5,50,0,0,0,0,0
-toolBarFont=Oxygen-Sans,9,-1,5,50,0,0,0,0,0
+smallestReadableFont=Noto Sans,8,-1,5,50,0,0,0,0,0
+toolBarFont=Noto Sans,9,-1,5,50,0,0,0,0,0
 
 [Icons]
 Theme=oxygen
@@ -108,6 +109,25 @@ Theme=oxygen
 LookAndFeelPackage=org.kde.darch.desktop
 contrast=7
 widgetStyle=Breeze
+
+[KFileDialog Settings]
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=0
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Previews=false
+Show Bookmarks=false
+Show Full Path=false
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+Speedbar Width=90
+View Style=Simple
+listViewIconSize=0
 
 [WM]
 activeBackground=0,49,110
